@@ -1,0 +1,12 @@
+[package]
+name = "patchall"
+version = "0.1.0"
+authors = ["Andrew Cann <shum@canndrew.org>"]
+edition = "2018"
+
+[dependencies]
+walkdir = "2"
+clap = "2"
+unwrap = "1"
+rand = "0.6.5"
+
